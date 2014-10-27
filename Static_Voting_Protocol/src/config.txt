@@ -1,0 +1,3 @@
+Total_Votes:10
+Write_Quorum:6
+Read_Quorum:5
